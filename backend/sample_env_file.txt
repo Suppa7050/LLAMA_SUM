@@ -1,2 +1,3 @@
-USER="--your_username_here--"
-API_KEY="--your_api_key_here--"
+KAGGLE_USERNAME=your kaggle username
+KAGGLE_KEY=your kaggle API key
+DB_URL=your Mongo DB URL
